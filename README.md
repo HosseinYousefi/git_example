@@ -1,4 +1,4 @@
-# Git Example for Harbour.Space Students
+# Git Example for Everyone :) 
 
 Here is an example to demonstrate how to use git.
 
